@@ -1,0 +1,31 @@
+{
+  "folders": [
+	{
+		"path": "../../../Documents/GitHub/template"
+	},
+	{
+		"path": "../07-template"
+	},
+	{
+		"path": "../08-template"
+	},
+	{
+		"path": "../09-template"
+	},
+	{
+		"path": "../10-template"
+	},
+	{
+		"path": "../11-template"
+	},
+	{
+		"path": "../12-template"
+	},
+	{
+		"path": "."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "13-template"
+  }
+}
